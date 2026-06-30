@@ -12,7 +12,7 @@
 ### 🚀 About Me
 I am a software developer focused on building desktop utilities, automation scripts, and game tools using **C#** and **.NET**. 
 
-* 🛠️ **Current Project:** Working on [StalkerSetup](https://github.com) — a custom setup tool for the S.T.A.L.K.E.R. trilogy.
+* 🛠️ **Current Project:** Working on [StalkerSetup](https://github.com/DTW-Chuvak/StalkerSetup) — a custom setup tool for the S.T.A.L.K.E.R. trilogy.
 * 🧠 **Interests:** Game modding tools, automation, and content moderation systems (`blocked_words`).
 
 ---
