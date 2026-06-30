@@ -2,7 +2,7 @@
 
 ---
 
-## Languages I’ve Used for Personal Projects
+## Languages I’ve Coded In. Languages I’ve Used for Personal Projects.
 
 ---
 <p align="center">
