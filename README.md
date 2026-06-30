@@ -26,6 +26,7 @@ I am a software developer focused on building desktop utilities, automation scri
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
 ---
+
 ### 🎯 Next Project: `blocked_words`
 I am planning to build a universal, high-performance content moderation library to filter bad words and spam.
 
