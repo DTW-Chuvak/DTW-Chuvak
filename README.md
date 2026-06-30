@@ -26,14 +26,12 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DTW-Chuvak&show_icons=true&theme=radical" alt="DTW-Chuvak's GitHub Stats" />
-</p>
+## Top used languages
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
+
 
 ---
 
