@@ -1,11 +1,14 @@
 <h1 align="center">Hi there, I'm DTW-Chuvak! 👋</h1>
 
+---
+
 <p align="center">
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt=".NET" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://img.shields.io/badge/C%23-blue?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-purple?style=flat-square" alt=".NET" />
+  <img src="https://img.shields.io/badge/Git-orange?style=flat-square" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square" alt="GitHub" />
 </p>
+
 
 ---
 
@@ -19,11 +22,11 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://vercel.app" alt="DTW-Chuvak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DTW-Chuvak&show_icons=true&theme=radical" alt="DTW-Chuvak's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
