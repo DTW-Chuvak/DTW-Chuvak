@@ -26,19 +26,10 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ---
 
-## Zone
-
-<div align="center">
-    <img src="stalker-shadow-of-chernobyl-monolith.gif" alt="Stalker Monolith" width="500" />
-    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />>
-</div>
-
-
----
-
 ###  Working on project called: `Domain Response Time` ⏱️
 
 ---
+
 ### 🎯 Next Project: `blocked_words`
 I am planning to build a universal, high-performance content moderation library to filter bad words and spam.
 
@@ -52,3 +43,16 @@ I am planning to build a universal, high-performance content moderation library 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
+
+---
+
+
+## Zone
+
+<div align="center">
+    <img src="stalker-shadow-of-chernobyl-monolith.gif" alt="Stalker Monolith" width="500" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />>
+</div>
+
+
+---
