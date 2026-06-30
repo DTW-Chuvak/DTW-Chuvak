@@ -25,6 +25,7 @@ I am a software developer focused on building desktop utilities, automation scri
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
+
 ---
 
 ### 🎯 Next Project: `blocked_words`
