@@ -28,7 +28,7 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ---
 
-###  Working on: `Domain Response Time` ⏱️
+###  Working on project called: `Domain Response Time` ⏱️
 
 ---
 ### 🎯 Next Project: `blocked_words`
