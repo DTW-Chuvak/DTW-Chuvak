@@ -25,8 +25,16 @@ I am a software developer focused on building desktop utilities, automation scri
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" />
 </p>
+---
+### 🎯 Next Project: `blocked_words`
+I am planning to build a universal, high-performance content moderation library to filter bad words and spam.
+
+* [ ] 📂 Merge and clean up messy wordlists from the `blocked_words` folder.
+* [ ] ⚡ Implement ultra-fast lookup algorithms using `HashSet` / `Sets`.
+* [ ] 🧠 Add smart Regex pattern matching to bypass lookalike characters (e.g., `@` instead of `a`).
 
 ---
+
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
