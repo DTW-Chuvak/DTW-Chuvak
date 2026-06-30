@@ -28,6 +28,9 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ---
 
+###  Working on: `Domain Response Time` ⏱️
+
+---
 ### 🎯 Next Project: `blocked_words`
 I am planning to build a universal, high-performance content moderation library to filter bad words and spam.
 
