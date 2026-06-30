@@ -2,11 +2,17 @@
 
 ---
 
+## Languages I’ve Used for Personal Projects
+
+---
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" alt="JS" />
+  <img src="https://img.shields.io/badge/Python-green?style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-blue?style=flat-square" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-purple?style=flat-square" alt=".NET" />
-  <img src="https://img.shields.io/badge/Git-orange?style=flat-square" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square" alt="GitHub" />
+  <img src="https://img.shields.io/badge/C%2B%2B-red?style=flat-square" alt="C++" />
+  <img src="https://img.shields.io/badge/C-darkblue?style=flat-square" alt="C" />
 </p>
 
 
