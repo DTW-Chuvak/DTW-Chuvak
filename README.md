@@ -26,7 +26,7 @@ I am a software developer focused on building desktop utilities, automation scri
 
 ---
 
-## Top used languages
+## Zone
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />
