@@ -30,7 +30,7 @@ I am a software developer focused on building desktop utilities, automation scri
 
 <div align="center">
     <img src="stalker-shadow-of-chernobyl-monolith.gif" alt="Stalker Monolith" width="500" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTW-Chuvak&layout=compact&theme=radical&hide=markdown" alt="Top Languages" />>
 </div>
 
 
